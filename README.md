@@ -1,2 +1,2 @@
 # My_first_Repo
-First time of github
+First time on github
